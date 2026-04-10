@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Ogden in the Mountain West. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Ogden, Utah, US",
+  "export_job_id": "10f87faf-bd5c-4395-9cbd-7e1792a8531e",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 153863,
+  "location_name": "Ogden",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-ogden-utah-us-sample-153863",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/153863/beamstation_153863_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_pct": 9.55,
+  "sample_records": 19,
+  "sample_sha256": "6a7fc616692892351cb81afb0c7d4cab6a6581fe886c092acec6c65abf63385e",
+  "sample_size_bytes": 77995,
+  "total_records": 199,
+  "updated_at": "2026-04-09T14:20:01.091640+00:00"
+}
