@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c8e4f2c9-290f-471d-ae67-cf86e9c37bb9",
+  "export_job_id": "1974fff3-f418-466c-96d2-313a6918f754",
   "id_short": 153863,
-  "published_at": "2026-04-23T19:18:02Z",
+  "published_at": "2026-04-30T19:05:52Z",
   "repo_name": "all-restaurants-in-ogden-utah-us-sample-153863",
   "sample_asset_name": "beamstation_153863_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/153863/beamstation_153863_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 6,
-  "sample_sha256": "d826d7c5a0abaa08389397ae4bcf3280e08e5eaa899cbd37cde158a349ea45d3",
-  "sample_size_bytes": 37655,
-  "total_records": 67
+  "sample_records": 24,
+  "sample_sha256": "5e9302b5c83223e5137271665ff1f23e17eb039dacc1de89f97fff7727b27d1c",
+  "sample_size_bytes": 109563,
+  "total_records": 249
 }
